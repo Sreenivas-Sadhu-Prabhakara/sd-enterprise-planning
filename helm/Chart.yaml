@@ -1,0 +1,14 @@
+apiVersion: v2
+name: sd-enterprise-planning
+description: "BIAN Service Domain: Enterprise Planning (Plan pattern, Business Support)"
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - bian
+  - plan
+annotations:
+  bian/business-area: "Business Support"
+  bian/business-domain: "Business Command and Control"
+  bian/asset-type: "Enterprise Plan"
+  bian/control-record: "Enterprise Plan Plan"
